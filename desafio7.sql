@@ -1,1 +1,1 @@
-SELECT * FROM northwind.products WHERE id between(95) and (99);
+SELECT id FROM northwind.products WHERE id between(95) and (99);
